@@ -3,10 +3,6 @@
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=18" />
-</div>
-
 <p align="right">
   🔗 <a href="https://ir4gh4v.github.io" target="_blank"><strong>→ ir4gh4v.github.io</strong></a>
 </p>
