@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+r4gh4v+here+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=18" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=18" />
 </div>
 
 <p align="right">
