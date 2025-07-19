@@ -36,6 +36,6 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=500&color=D4DA19&width=480&lines=On+journey+to+become+a+great+Hacker." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Bitcount+Grid+Double&pause=500&color=D4DA19&width=680&lines=On+journey+to+become+a+great+Hacker.&size=30" alt="Typing SVG" />
   </a>
 </div>
